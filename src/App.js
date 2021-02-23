@@ -7,7 +7,7 @@ export default function App() {
   return (
   <div className="App">
     <div className="container">
-     <Weather />
+     <Weather defaultCity="New York" />
     <footer>
       This project was coded by Carolyn MacLeod and is <a href="https://github.com/camacleod527/react-final-project" 
   target="_blank">
